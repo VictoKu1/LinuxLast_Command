@@ -1,4 +1,4 @@
-# Linux last command implementation in C.
+# Linux last command implementation in C . 
 
 ##### Installation and usage
 
